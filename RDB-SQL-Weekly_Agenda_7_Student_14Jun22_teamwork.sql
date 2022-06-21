@@ -1,4 +1,4 @@
-/* ===== RDB&SQL Exercise-2 Student (14 Jun 22) ===== */
+                             /* =====  RDB&SQL Exercise-2 Student  ===== */
 
 ----1. By using view get the average sales by staffs and years using the AVG() aggregate function.
 
